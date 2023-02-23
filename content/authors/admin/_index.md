@@ -82,4 +82,4 @@ highlight_name: true
 ---
 
 I am a teacher, teacher educator, and researcher. I have demonstrated expertise and leadership in teaching and research, course development, accreditation, and delivery across multiple undergraduate and postgraduate teacher and history education programs in Ghana and Australia. I am productive in translating current research and theory into innovative practices to transform student learning experience and advance research and scholarship. I am is currently co-editing a book on teaching and teacher education in Africa.
-{style="text-align: justify;"}
+{style="text-align: left;"}
