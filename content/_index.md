@@ -5,7 +5,7 @@ date: 2023-02-23
 type: landing
 
 sections:
-  - block: hero
+  - block: 
     content:
       title: 
       image:
