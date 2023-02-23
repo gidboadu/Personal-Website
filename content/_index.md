@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: Gideon Boadu
 date: 2023-02-23
-type: landing
+type: 
 
 sections:
   - block: 
