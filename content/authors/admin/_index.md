@@ -58,7 +58,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar
+  - icon: google scholar
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
