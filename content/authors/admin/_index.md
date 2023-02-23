@@ -24,14 +24,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include history education and initial teacher education.
 
-# Interests to show in About widget
+# Interests to show in About Me widget
 interests:
   - Teacher Education
   - History Education
   - Teacher Disciplinary Reasoning
   - Teacher Pedagogical Reasoning
   
-# Education to show in About widget
+# Education to show in About Me widget
 education:
   courses:
     - course: PhD in Education
