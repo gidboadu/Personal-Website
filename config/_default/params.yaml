@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Gideon Boadu {2023}. Powered by the Academic theme for Hugo.'
+    notice: '© {2023} Gideon Boadu. Powered by the Academic theme for Hugo.'
     license:
       enable: true
       allow_derivatives: false
