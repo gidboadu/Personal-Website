@@ -59,10 +59,10 @@ social:
     display:
       header: true
   - icon: google scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=V2WEGL8AAAAJ&hl=en
   - icon: github
-    icon_pack: fab
+    icon_pack: fas
     link: https://github.com/gideonboadu
   - icon: linkedin
     icon_pack: fab
