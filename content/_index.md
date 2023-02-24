@@ -1,38 +1,11 @@
 ---
-# Leave the homepage title empty to use the site title
-title: Gideon Boadu
-date: 2023-02-23
+name: Gideon Boadu
 type: landing
-
 sections:
-  - block: 
-    content:
-      title: 
-      image:
-        filename: 
-      cta:
-        label: 
-        url: 
-      cta_alt:
-        label: 
-        url: 
-      cta_note:
-        label: >-
-          
+      label: >-
       text: |-
-       
-       
-        
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
-  - block: about.avatar
+              
+    - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
