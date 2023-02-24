@@ -7,8 +7,6 @@ first_name: Gideon
 last_name: Boadu
 
 # Status emoji
-status:
-  icon: 
 
 # Is this the primary user of the site?
 superuser: true
